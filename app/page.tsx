@@ -149,7 +149,10 @@ export default function TruthOrDareGame() {
     "Apa hal paling mendalam yang pernah kamu pelajari dari seseorang?",
     "Kalau bisa menonton satu momen sejarah, momen apa yang ingin kamu lihat?",
     "Apa hal paling intim tapi menyenangkan yang bisa kamu bagikan tentang dirimu?",
-    "Kalau hidupmu diukur dari pengalaman, apa yang paling berharga sejauh ini?"
+    "Kalau hidupmu diukur dari pengalaman, apa yang paling berharga sejauh ini?",
+
+    //test
+    "Siapa orang yang paling menginspirasi kamu dalam hidup?",
   ];
 
 
